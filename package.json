@@ -1,0 +1,15 @@
+{
+  "name": "devops-workshop-website",
+  "version": "1.0.0",
+  "description": "A Jekyll website to demonstrate DevOps concepts.",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.14.0"
+  },
+  "scripts": {
+    "test": "eslint js/workshop.js"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/jfredrickson5/DevOps-workshop-website"
+}
