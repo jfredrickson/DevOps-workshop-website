@@ -1,3 +1,5 @@
+[![Travis CI](https://travis-ci.org/jfredrickson5/DevOps-workshop-website.svg?branch=dev)](https://travis-ci.org/jfredrickson5/DevOps-workshop-website)
+
 # DevOps Workshop test website
 
 This app demonstrates use of CI for a Jekyll-based website.
